@@ -1,9 +1,12 @@
 server:
-  port: 8080
+  port: 8081
 spring:
   application:
     name: service-hosp
   cloud:
     nacos:
       discovery:
-        server-addr: 192.168.1.5:8848
+        server-addr: 192.168.64.128:8848
+        namespace: public
+user:
+  userName: seriiur

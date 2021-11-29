@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: application-service-hosp
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.64.128:8848
+        name: application-service-hosp.yml
+#        namespace: 74af96e7-a0ee-48f8-93d4-2c2a42e7e7a0

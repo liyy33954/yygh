@@ -35,6 +35,17 @@
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
             <version>2.2.5.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+            <version>2.2.5.RELEASE</version>
+        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.aspose</groupId>-->
+<!--            <artifactId>aspose-words</artifactId>-->
+<!--            <version>15.8.0</version>-->
+<!--            <systemPath>H:\yygh\service\service_hosp\lib\aspose-words-15.8.0-jdk16.jar</systemPath>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>
